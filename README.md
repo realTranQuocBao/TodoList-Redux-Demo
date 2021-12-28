@@ -10,3 +10,6 @@ Using the Redux library to create a Simple Application (TodoList)
 # Language:
 - HTML: for input & display todolist
 - Javascrip: to handle function, use Redux
+
+# Demo
+* Link demo: [https://realtranquocbao.github.io/TodoList-Redux-Demo/](https://realtranquocbao.github.io/TodoList-Redux-Demo/)
